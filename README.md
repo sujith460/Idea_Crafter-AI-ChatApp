@@ -2,9 +2,7 @@
 
 IdeaCrafter is an AI-powered platform designed to bridge the gap between **Entrepreneurs** and **Investors**. By acting as a personalized business and investment advisor, it provides tailored insights, market analysis, pitch feedback, and portfolio strategies. 
 
-**Live Demo:** [IdeaCrafter on Vercel](https://idea-crafter-theta.vercel.app/)
-
-![IdeaCrafter Banner](https://images.unsplash.com/photo-1556761175-5973dc0f32d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+**Live Demo:** [IdeaCrafter on Vercel](https://idea-crafter-alpha.vercel.app/)
 
 ---
 
